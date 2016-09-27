@@ -1,5 +1,5 @@
 # Pandas Box
-Load data directly into a pandas dataframe object.
+Load data (csv format) directly into a pandas dataframe object.
 
 Dependencies: 
 - pandas 
@@ -11,6 +11,6 @@ To use,
 from loadbox import load_box
 
 # Enter Token when prompted
-df = load_box(<FILE_NAME>)
+df = load_box('iris.csv')
 ```
  
