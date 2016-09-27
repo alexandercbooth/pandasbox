@@ -1,6 +1,10 @@
 # Pandas Box
 Load data directly into a pandas dataframe object.
 
+Dependencies: 
+- pandas 
+- boxsdk
+
 To use, 
 
 ```python
